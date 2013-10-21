@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+/**
+  * 
+  */
+{template .${1:template_name} private="${2:private}" autoescape="${3:autoescape}"}
+	${4}
+{/template}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tempa</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.soy</scope>
+	<description>template with attr</description>
+</snippet>
