@@ -9,4 +9,6 @@ These snippets work only for files with .soy extension.
 
 ## Install
 
-Install with [Package Control](http://wbond.net/sublime_packages/package_control). Search for: **Google Closure Template Snippets**.
+Since this package is not yet available through Package Control, after downloading copy it to the following folder: c:\Users\<User>\AppData\Roaming\Sublime Text 2\Packages\SoyTemplate\Snippets\
+
+When it will be available, install with [Package Control](http://wbond.net/sublime_packages/package_control). Search for: **Google Closure Template Snippets**.
