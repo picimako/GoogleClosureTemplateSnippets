@@ -7,9 +7,7 @@
 	${4}
 {/template}
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>tempa</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.soy</scope>
 	<description>template with attr</description>
 </snippet>

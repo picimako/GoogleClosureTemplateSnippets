@@ -2,9 +2,11 @@
 	<content><![CDATA[
 {foreach ${1:var} in ${2:list}}
 	${3}
+{ifempty}
+	${4}
 {/foreach}
 ]]></content>
-	<tabTrigger>foreach</tabTrigger>
+	<tabTrigger>foreif</tabTrigger>
 	<scope>source.soy</scope>
-	<description>foreach</description>
+	<description>foreach ifempty</description>
 </snippet>

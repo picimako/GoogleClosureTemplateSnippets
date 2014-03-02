@@ -2,9 +2,7 @@
 	<content><![CDATA[
 {msg meaning="${1:key}" desc="${2:desc}"}${3}{/msg}
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>msgm</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.soy</scope>
 	<description>msg with meaning</description>
 </snippet>

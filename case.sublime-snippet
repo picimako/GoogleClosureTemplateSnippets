@@ -2,9 +2,7 @@
 	<content><![CDATA[
 {case ${1:expressionlist}}
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>case</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.soy</scope>
 	<description>switch case</description>
 </snippet>
