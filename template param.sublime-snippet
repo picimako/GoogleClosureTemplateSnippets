@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+{@param ${1:name}: ${2:type}}{/param}
+]]></content>
+	<tabTrigger>tparam</tabTrigger>
+	<scope>source.soy</scope>
+	<description>template param</description>
+</snippet>

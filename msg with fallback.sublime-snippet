@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+{msg meaning="${1:key}" desc="${2:desc}"}
+  ${3}
+{fallbackmsg meaning="${4:key}" desc="${5:desc}"}
+  ${6}
+{/msg}
+]]></content>
+	<tabTrigger>msgf</tabTrigger>
+	<scope>source.soy</scope>
+	<description>msg with fallback</description>
+</snippet>
