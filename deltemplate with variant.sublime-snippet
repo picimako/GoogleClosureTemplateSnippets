@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+{deltemplate ${1:template} variant="${2:variant}"}
+	${3}
+{/deltemplate}
+]]></content>
+	<tabTrigger>deltv</tabTrigger>
+	<scope>source.soy</scope>
+	<description>deltemplatewithvar</description>
+</snippet>

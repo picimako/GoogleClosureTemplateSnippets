@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+{delcall ${1:template} /}
+]]></content>
+	<tabTrigger>delc</tabTrigger>
+	<scope>source.soy</scope>
+	<description>delcall</description>
+</snippet>

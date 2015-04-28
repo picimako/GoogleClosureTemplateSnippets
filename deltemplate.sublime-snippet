@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-{deltemplate ${1:template} variant="${2:variant}"}
-	${3}
+{deltemplate ${1:template}}
+	${2}
 {/deltemplate}
 ]]></content>
 	<tabTrigger>delt</tabTrigger>
