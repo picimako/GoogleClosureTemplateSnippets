@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+{xid ${1:command_text}}
+]]></content>
+	<tabTrigger>xid</tabTrigger>
+	<scope>source.soy</scope>
+	<description>XID</description>
+</snippet>
